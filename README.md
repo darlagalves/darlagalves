@@ -10,7 +10,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=darlagalves&include_all_commits=true&bg_color=ad5389,3c1053,6A82FB&title_color=fff&text_color=fff" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=darlagalves&rank_icon=github&include_all_commits=true&bg_color=ad5389,3c1053,6A82FB&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darlagalves&layout=compact&langs_count=8&card_width=320&bg_color=ad5389,3c1053,6A82FB&title_color=fff&text_color=fff" />
