@@ -1,6 +1,6 @@
 ## Olá! Eu sou Darla Garcia Alves
 
-- 🔭 Atualmente sou estudante do 9º período de Engenharia da Computação no Instituto Federal do Triângulo Mineiro - IFTM
+- 🔭 Atualmente sou estudante do 10º período de Engenharia da Computação no Instituto Federal do Triângulo Mineiro - IFTM
 - 😄 Pronomes: ela/dela 
 
 <div > 
