@@ -1,9 +1,8 @@
 ## Hi there! I'm Darla Garcia Alves 👋
 
-- 🎓 **M.Sc. Student in Software Engineering** at the **University of São Paulo (USP)** (CAPES Scholarship Recipient) & **B.Sc. in Computer Engineering** (IFTM)[cite: 3]
-- 🔬 Graduate Researcher focusing on **Software Testing, Fuzzing, Mutation Testing, and IoT ecosystems (MQTT)**[cite: 3]
-- 💻 Software Engineer experienced in full-stack web & mobile development (**Python, Java, C, JavaScript, React, Flutter, NestJS, GraphQL, Docker**)[cite: 3]
-- 🌱 Currently seeking **Software Engineering Internship** opportunities
+- 🎓 **M.Sc. Student in Software Engineering** at the **University of São Paulo (USP)** (CAPES Scholarship Recipient) & **B.Sc. in Computer Engineering** (IFTM)
+- 🔬 Graduate Researcher focusing on **Software Testing, Fuzzing, Mutation Testing, and IoT ecosystems (MQTT)**
+- 💻 Software Engineer experienced in full-stack web & mobile development (**Python, Java, C, JavaScript, React, Flutter, NestJS, GraphQL, Docker**)
 - 😄 Pronouns: she/her
 
 <div>
@@ -52,8 +51,8 @@
 ### 📊 GitHub Stats
 
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=darlagalves&show_icons=true&include_all_commits=true&bg_color=ad5389,3c1053,6A82FB&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=darlagalves&layout=compact&langs_count=8&card_width=320&bg_color=ad5389,3c1053,6A82FB&title_color=fff&text_color=fff" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=darlagalves&show_icons=true&include_all_commits=true&bg_color=45,ad5389,3c1053,6A82FB&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=darlagalves&layout=compact&langs_count=8&card_width=320&bg_color=45,ad5389,3c1053,6A82FB&title_color=fff&text_color=fff" alt="Top Languages" />
 </div>
 
 <br>
