@@ -51,8 +51,9 @@
 ### 📊 GitHub Stats
 
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=darlagalves&show_icons=true&include_all_commits=true&bg_color=45,ad5389,3c1053,6A82FB&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=darlagalves&layout=compact&langs_count=8&card_width=320&bg_color=45,ad5389,3c1053,6A82FB&title_color=fff&text_color=fff" alt="Top Languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darlagalves&theme=radical" alt="GitHub Profile Summary" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darlagalves&theme=radical" alt="Most Commit Language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darlagalves&theme=radical" alt="GitHub Stats" />
 </div>
 
 <br>
